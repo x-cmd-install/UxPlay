@@ -1,0 +1,60 @@
+about:
+  description: AirPlay Unix mirroring server
+  license: GPL-3.0
+  homepage: 
+  head: fd88c0c
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-01T05:23:31Z
+timeline:
+  created: 2020-04-15
+  lastCommit: 2026-04-04
+  lastRelease: ?
+popularity:
+  star: 2087
+  watcher: 12
+  fork: 361
+  release: 0
+  contributor: 11
+  pullRequest: 16
+  issue: 147
+language:
+  C: 1489200
+  C++: 127573
+  Python: 46762
+  CMake: 15752
+  Roff: 9780
+totalLine: 1689067
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 4
+    commit: 24
+  last360d:
+    since: 2025-09-06
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 5
+    commit: 150
