@@ -4,7 +4,7 @@
 
 AirPlay Unix mirroring server
 
-![UxPlay](https://repo.x-cmd.io/UxPlay.svg)
+![UxPlay](https://repo.x-cmd.io/UxPlay.svg?lang=zh)
 
 ## 安装
 
@@ -19,7 +19,7 @@ x install UxPlay
 
 ## 流行度
 
-- **Star**: 2,093 · **Fork**: 366 · **开放 issue**: 147 · **贡献者**: 11
+- **Star**: 2,094 · **Fork**: 368 · **开放 issue**: 147 · **贡献者**: 11
 
 ## 累计统计
 
@@ -54,4 +54,4 @@ UxPlay 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:52:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:11:08Z._
