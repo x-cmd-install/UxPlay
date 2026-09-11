@@ -31,7 +31,7 @@ Total: **31,154** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,095 · **Forks**: 369 · **Open issues**: 147 · **Contributors**: 11
+- **Stars**: 2,097 · **Forks**: 370 · **Open issues**: 147 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -57,4 +57,4 @@ Install metadata for UxPlay lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:48:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:41:00Z._
