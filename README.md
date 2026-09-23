@@ -4,7 +4,7 @@
 
 AirPlay Unix mirroring server
 
-[![x-cmd/install — UxPlay Code Quality Monitoring Repo Card](https://repo.x-cmd.io/UxPlay.svg)](https://x-cmd.com/install/UxPlay)
+[![x-cmd/install — UxPlay Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/UxPlay.svg)](https://x-cmd.com/install/UxPlay)
 
 ## Install
 
@@ -31,22 +31,22 @@ Total: **31,154** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,101 · **Forks**: 376 · **Open issues**: 147 · **Contributors**: 11
+- **Stars**: 2,102 · **Forks**: 376 · **Open issues**: 146 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 44 · **Open PRs**: 1 · **Closed issues**: 47 · **Open issues**: 100 · **Commits**: 1434
+- **Releases**: 0 · **Merged PRs**: 44 · **Open PRs**: 1 · **Closed issues**: 47 · **Open issues**: 99 · **Commits**: 1434
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 360d | 2025-09-27 | 0 | 1 | 1 | 0 | 5 | 143 |
-| last720d | 2024-10-02 | 0 | 5 | 1 | 5 | 21 | 291 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 360d | 2025-09-28 | 0 | 1 | 1 | 0 | 5 | 143 |
+| last720d | 2024-10-03 | 0 | 5 | 1 | 5 | 20 | 291 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for UxPlay lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:04:30Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:00:49Z._
