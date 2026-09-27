@@ -31,22 +31,22 @@ Total: **31,154** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,103 · **Forks**: 376 · **Open issues**: 146 · **Contributors**: 11
+- **Stars**: 2,104 · **Forks**: 376 · **Open issues**: 146 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 44 · **Open PRs**: 1 · **Closed issues**: 47 · **Open issues**: 99 · **Commits**: 1434
+- **Releases**: 0 · **Merged PRs**: 44 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 99 · **Commits**: 1434
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-28 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-06-28 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last180d | 2026-03-30 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 360d | 2025-10-01 | 0 | 1 | 1 | 0 | 5 | 143 |
-| last720d | 2024-10-06 | 0 | 4 | 1 | 5 | 20 | 286 |
+| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-29 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-31 | 0 | 0 | 0 | 0 | 4 | 0 |
+| 360d | 2025-10-02 | 0 | 1 | 0 | 0 | 5 | 142 |
+| last720d | 2024-10-07 | 0 | 4 | 0 | 5 | 20 | 286 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for UxPlay lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:14:47Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T04:30:07Z._
